@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+sklearn.model_selection
+sklearn.neighbors
+sklearn.metrics
